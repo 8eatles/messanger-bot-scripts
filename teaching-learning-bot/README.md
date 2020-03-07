@@ -1,7 +1,7 @@
 # 가르치기봇 사용법
 
 ## 0. 데모 테스트용 봇
-- open.kakao.com/me/devbot
+- [카카오톡](https://open.kakao.com/me/devbot)
 
 ## 1. 가르치기
 
